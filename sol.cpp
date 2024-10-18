@@ -5,10 +5,5 @@ using namespace std;
 
 int main()
 {
-    int n;
-    int k;
-    cin >> n;
-    cin >> k;
-    
     return 0;
 }
